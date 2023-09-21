@@ -1,8 +1,8 @@
 # `🧿𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭🧿`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/51906090149" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51906090149" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51906090149" target="blank"><img src="https://img.shields.io/badge/𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51906090149" target="blank"><img src="https://img.shields.io/badge/𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
