@@ -1,17 +1,17 @@
 var handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let pp = gataImg.getRandom()	
-const cat = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 💖🐈
+const cat = `𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 💖🐈
 *Wa.me/573026191480*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 💖🐈
-*wa.me/51929741688*
+𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 💖🐈
+*wa.me/51906090149*
 *---------------------*
 
 *CENTER GATABOT*
 *centergatabot@gmail.com*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
@@ -43,17 +43,17 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 conn.reply(m.chat, 'Mario.js', fkontak,  m)
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
-let teksbio = `𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭💖🐈
-*Wa.me/51929741688*
+let teksbio = `𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭💖🐈
+*Wa.me/51906090149*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 💖🐈
-*wa.me/51929741688*
+𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 💖🐈
+*wa.me/51906090149*
 *---------------------*
 
-*CENTER MATEOBOT*
+*CENTER BRUNOBOT*
 *centergatabot@gmail.com*
 
-𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*`
   let teks = ' '
 const sections = [
@@ -94,7 +94,7 @@ const listMessage = {
         switch (type) {
           case 'nombre':
           await conn.reply(m.chat, `𝙉𝙊𝙈𝘽𝙍𝙀 𝘿𝙀𝙇 𝘽𝙊𝙏 : ${gt} 🐈`, fkontak, m)
-         // conn.reply(m.chat, "Nombre del bot : MateoBot-MD 🐈", m, { contextInfo: { mentionedJid: [nowner] }})
+         // conn.reply(m.chat, "Nombre del bot : BrunoBot-MD 🐈", m, { contextInfo: { mentionedJid: [nowner] }})
             break
             case 'bio':
              await conn.sendFile(m.chat, gataImg.getRandom(), 'gata.jpg', teksbio, fkontak)
