@@ -1,19 +1,19 @@
-# `🧿𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭🧿`
+# `🧿𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭🧿`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/51929741688" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51929741688" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51906090149" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51906090149" target="blank"><img src="https://img.shields.io/badge/𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
 
-<a href="https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf" target="blank"><img src="https://img.shields.io/badge/MATEO VENTAS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/Ldu6m5NsIAW4Xg73rsgTg2" target="blank"><img src="https://img.shields.io/badge/BRUNO VENTAS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=51929741688&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/prueba.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=51906090149&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/prueba.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
