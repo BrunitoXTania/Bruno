@@ -11,25 +11,25 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51929741688", '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 💖🐈', true],
-["51929741688", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
-["51929741688"], 
-["51929741688"], 
-["51929741688"],
-["51929741688"], 
-["51929741688"]]
+["51906090149", '𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 💖🐈', true],
+["51906090149", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
+["51906090149"], 
+["51906090149"], 
+["51906090149"],
+["51906090149"], 
+["51906090149"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [];
-global.prems = ["51929741688"];
+global.prems = ["51906090149"];
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"];
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga MateoBot-MD
-//Add the language you want MateoBot-MD to have
+//Agrega el Idioma que quieres que tenga BrunoBot-MD
+//Add the language you want BrunoBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
@@ -50,7 +50,7 @@ global.keysxteammm = ["29d4b59a4aa687ca", "5LTV57azwaid7dXfz5fzJu", "cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())];
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"];
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())];
-global.lolkeysapi = "MateoDios";
+global.lolkeysapi = "BrunoDios";
 global.itsrose = ["4b146102c4d500809da9d1ff"];
 global.baileys = "@whiskeysockets/baileys";
 
@@ -107,22 +107,22 @@ global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 🐈";
-global.author = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭";
+global.packname = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭𝐭 🐈";
+global.author = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9";
 global.vsJB = "2.0";
 
-global.gt = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭";
+global.gt = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭";
 global.yt = "https://youtube.com/@gatadios";
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
 global.ig = "https://www.instagram.com/gata_dios";
 global.md = "https://github.com/GataNina-Li/GataBot-MD";
 global.fb = "https://www.facebook.com/groups/872989990425789/";
 
-global.nna = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE MATEOBOT
+global.nna = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE BRUNOBOT
 global.nn2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //UPDATE 2
 global.nna2 = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Help
 global.nn = 'https://chat.whatsapp.com/Kz6zFTtKva4HaBSqDYfAQf' //Grupo 1
@@ -169,8 +169,8 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭 : 𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭";
-global.igfg = "𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭-";
+global.wm = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭 : 𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭";
+global.igfg = "𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭-";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
