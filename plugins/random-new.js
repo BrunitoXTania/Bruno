@@ -15,7 +15,7 @@ conn.sendFile(m.chat, pp, 'error.jpg', m)}
 if (command == 'chico') {
  let pp = 'https://source.unsplash.com/featured/?boy,man'
  conn.sendFile(m.chat, pp, 'error.jpg', m)}
-/*conn.sendHydrated(m.chat, wm, null, pp, md, '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭', null, null, [
+/*conn.sendHydrated(m.chat, wm, null, pp, md, '𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭', null, null, [
 ['😻 𝙎𝙄𝙂𝙐𝙄𝙀𝙉𝙏𝙀 | 𝙉𝙀𝙓𝙏', `.chico`],
 ['✨ 𝘾𝙃𝙄𝘾𝘼 | 𝙂𝙄𝙍𝙇', `.chica`],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
@@ -28,7 +28,7 @@ if (command == 'clima') {
 
 let pp = `https://es.wttr.in/${text}.png`
 conn.sendFile(m.chat, pp, 'error.jpg', `✨ *AQUÍ TIENE EL CLIMA EN ESPAÑOL*`, m)}
-/*conn.sendHydrated(m.chat, `✨ *AQUÍ TIENE EL CLIMA EN ESPAÑOL*`, wm, pp, md, '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭', null, null, [
+/*conn.sendHydrated(m.chat, `✨ *AQUÍ TIENE EL CLIMA EN ESPAÑOL*`, wm, pp, md, '𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭', null, null, [
 ['💜 𝙀𝙣𝙜𝙡𝙞𝙨𝙝 𝙫𝙚𝙧𝙨𝙞𝙤𝙣', `.clima2 ${text}`],
 ['💚 𝙑𝙚𝙧𝙨ã𝙤 𝙚𝙢 𝙋𝙤𝙧𝙩𝙪𝙜𝙪ê𝙨', `.clima3 ${text}`],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
@@ -40,7 +40,7 @@ if (command == 'clima2') {
 
 let pp = `https://en.wttr.in/${text}.png`
 conn.sendFile(m.chat, pp, 'error.jpg', `✨ *HERE IS THE WEATHER IN ENGLISH*`, m)}
-/*conn.sendHydrated(m.chat, `✨ *HERE IS THE WEATHER IN ENGLISH*`, wm, pp, md, '𝐌𝐚𝐭𝐞𝐨 𝐁𝐨𝐭', null, null, [
+/*conn.sendHydrated(m.chat, `✨ *HERE IS THE WEATHER IN ENGLISH*`, wm, pp, md, '𝐁𝐫𝐮𝐧𝐨 𝐁𝐨𝐭', null, null, [
 ['💙 𝙑𝙚𝙧𝙨𝙞𝙤𝙣 𝙀𝙨𝙥𝙖𝙣𝙤𝙡', `.clima ${text}`],
 ['💚 𝙑𝙚𝙧𝙨ã𝙤 𝙚𝙢 𝙋𝙤𝙧𝙩𝙪𝙜𝙪ê𝙨', `.clima3 ${text}`],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
